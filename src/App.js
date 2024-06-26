@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import reactLogo from '/project-accordian/src/assets/react.svg'
+import viteLogo from '/project-accordian/public/vite.svg'
+import '/project-accordian/src/App.css'
 
 function App() {
   const [count, setCount] = useState(0)
